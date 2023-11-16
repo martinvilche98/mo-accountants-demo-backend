@@ -3,7 +3,7 @@
 ### Getting started
 
 #### Configuration
-This Project is set up to use an Postgres Database.
+This Project is set up to use a Postgres Database.
 
 Configure connection string found in:
 `src/database/connection.ts`
