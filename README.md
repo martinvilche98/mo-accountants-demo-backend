@@ -13,10 +13,12 @@ Configure connection string found in:
 ```
 
 #### Create admin user:
+
+Run the following command in the project root directory to Initialize system with an admin user.
+
 ```
 $ npm run createadminuser <email> <password>
 ```
-Initialize system with an admin user.
 
 
 #### Start backend service
