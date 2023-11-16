@@ -2,6 +2,13 @@
 
 ### Getting started
 
+#### Installing dependencies
+
+```ts
+  $ npm install
+  $ yarn install
+```
+
 #### Configuration
 This Project is set up to use a Postgres Database.
 
